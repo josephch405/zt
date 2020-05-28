@@ -1,5 +1,4 @@
 # Music
 
-[Singing](singing.md)
-[Guitar](guitar.md)
-
+[[Singing]](singing.md)
+[[guitar]](guitar.md)

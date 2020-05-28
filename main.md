@@ -1,4 +1,14 @@
 # Home
 
-[Zettelkasten](zettlekasten.md)
-[Music](music.md)
+## Productivity
+
+[[Goals]](goals.md)
+[[Zettelkasten]](zettlekasten.md)
+
+## Arts
+
+[[Music]](music.md)
+
+## Tech
+
+## Math + Science

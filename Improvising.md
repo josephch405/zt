@@ -1,0 +1,1 @@
+I've definitely regressed since middle school, but to be honest I really could have tried harder in the first place. I'm just now realizing how useful it is to have multimodal intuitions trained and ready to go, since I keep falling into the same monomodal trap licks and can't find a way out. Feels oddly like digging my way out of a local minima [[ML]]

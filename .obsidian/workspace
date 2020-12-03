@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "a156a997bd274158",
+    "type": "split",
+    "children": [
+      {
+        "id": "c2eb69f61d3ffa19",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Music.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ae1fbe61699d4554",
+    "type": "split",
+    "children": [
+      {
+        "id": "0970022a96fc5ae9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2e958f3a8090de04",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a1d1cb621e03f153",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "31a9d2b3732d1f49",
+    "type": "split",
+    "children": [
+      {
+        "id": "e9d67f92faa712e7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b63341222b17ee1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Music.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "music.md",
+    "Gifting.md",
+    "Religion.md",
+    "guitar.md",
+    "Hero Syndrome.md",
+    "Improvising.md",
+    "ML.md",
+    "main.md",
+    "CS 154.md",
+    "Relaxing.md"
+  ]
+}

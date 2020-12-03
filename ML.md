@@ -1,0 +1,1 @@
+ML is about capturing distributions. My artistic intuition behind this is that it's mankind's best recursive effort to compress/condense the world into a distilled representation. I am just now realizing that this reminds me of the compressible language from [[CS 154]]

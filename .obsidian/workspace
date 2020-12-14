@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Music.md",
+            "file": "Singing.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Music.md",
+                "file": "Singing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +86,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Singing.md",
+    "Music.md",
     "music.md",
     "Gifting.md",
     "Religion.md",
@@ -93,8 +95,6 @@
     "Hero Syndrome.md",
     "Improvising.md",
     "ML.md",
-    "main.md",
-    "CS 154.md",
-    "Relaxing.md"
+    "main.md"
   ]
 }

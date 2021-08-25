@@ -1,0 +1,5 @@
+I want to be better at gift giving because I see it as a way to exercise my [[Empathy]] for others. Ironically it's kind of hard for me to figure out what makes me happy at the moment, so I'm not sure if I'm able to even think about how gifts make others happy. I should try to pay attention to my own emotional reactions to presents.
+
+Or rather - maybe I could try to become more conscious of other's efforts to accomodate or help me, whenever that occurs. And empathize with the gift giver's intent, then try to incorporate that emotion myself.
+
+In this sense emotion almost feels like a weird black box where "traditional" logic ends... perhaps the difference is that emotion is slightly less consistent and definitely a lot less complete than formal logic, but ultimately nothing can be both completely [[CS 154]]. Hmm.

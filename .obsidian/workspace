@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "singing.md",
+            "file": "archive/zettlekasten.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "singing.md",
+                "file": "archive/zettlekasten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "513dd25971ae4eb7",
   "lastOpenFiles": [
+    "archive/zettlekasten.md",
+    "main.md",
+    "daily_log/2020_05_28.md",
+    "music.md",
     "singing.md",
     "motivation.md",
     "workflow.md",
-    "main.md",
     "pelvis tilt.md",
-    "music.md",
     "ennui.md",
-    "Military.md",
-    "cpp.md",
-    "graphics.md"
+    "Military.md"
   ]
 }

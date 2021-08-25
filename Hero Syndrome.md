@@ -1,0 +1,1 @@
+First noticed this concretely when I tried to grade [[CS 230]] midterms for 5 hours straight. It was kind of worth it in the end because I got to grade fewer exams, but maybe not a great thing sanity wise.

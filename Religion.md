@@ -1,0 +1,1 @@
+Just realized in the bath that religion should be more about interpretation than imposition. At least that's the case for myself - or what I believe religion should focus on.

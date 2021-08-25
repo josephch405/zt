@@ -1,0 +1,10 @@
+- Visit Italy
+- Visit France
+- Visit Israel, Egypt
+- Do more Japan trips
+- Round island bike trip
+- Make 10 mil
+- Do a startup
+- Make a good music track
+- Become a good vocalist
+- Have my own family

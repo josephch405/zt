@@ -1,4 +1,6 @@
 # Music
 
-[[Singing]](singing.md)
-[[guitar]](guitar.md)
+[[singing]]
+[[guitar]]
+
+Production is another focus but just can't seem to focus on this recently

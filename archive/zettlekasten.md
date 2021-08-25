@@ -9,3 +9,7 @@ Could try to leverage Markdown editing tools.
 - New notes have titles automatically
 - Continue lists in Markdown
 - Timestamp things somehow (leverage git maybe?)
+
+Now defunct to think about, Obsidian.md works very well
+
+Need to treat this basically as a notepad and journal, single SOT for all things mind related

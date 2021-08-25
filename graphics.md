@@ -1,0 +1,1 @@
+Writing the ray tracer in [[cpp]] is teaching me a bit more about

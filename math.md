@@ -1,3 +1,5 @@
+[[algebra]]
+
 Currently reading on cryptography and curves
 And also [[convex]]
 

@@ -1,3 +1,9 @@
+Current dailies:
+Vocal warmups/exercises
+One weekly cover attempt
+Music learning:
+	Produce 4 bars
+	One guitar exercise/concept
 
 [[singing]]
 [[guitar]]

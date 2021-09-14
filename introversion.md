@@ -1,0 +1,1 @@
+have I possibly considered that I'm actually just a shy extrovert? or am I solidly in the introvert camp

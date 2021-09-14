@@ -1,0 +1,3 @@
+I had this realization yesterday about something related to familiarity and growth but I don't remember what exactly I was thinking about
+It was somewhat profound...
+

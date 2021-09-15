@@ -1,0 +1,1 @@
+Powershell scripting is a pain. I don't know if I'll ever use this page again but I need a diff.

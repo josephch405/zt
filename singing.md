@@ -32,3 +32,8 @@ High notes
 Style
 - Flowing melodic phrasing
 - Good melody needs to be accompanied with emotional intonation - or at least, mindful intonation
+
+Imagine a ball in front floating up and down for intonations
+Throat can be a bit tight?
+Enunciation? Use back of throat as a stopper for note start
+Bring pallate up until you get resonance

@@ -1,5 +1,14 @@
 New workflow as of Waymo/work:
+7am - morning routine
+	Rinse
+	Cleanup
+	JP, maybe on bus
+	
+9-5 at work
+Bring dinner back/hang at office
 
+
+WFH Routine:
 7am (goal) - Morning breakfast and personal startup period
 	Rinse
 	Cleanup

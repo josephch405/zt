@@ -1,3 +1,5 @@
+DEPREC, use [[MASTER workflow and routines]]
+
 Habits need to be automatic, but they also need a trigger sometimes
 
 Current flow:

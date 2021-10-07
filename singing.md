@@ -32,3 +32,5 @@ Enunciation? Use back of throat as a stopper for note start
 Bring pallate up until you get resonance
 
 I really need lessons or pointers or just ingest a large volume of videos on this
+
+Restrain and keep the breath and use it judiciously

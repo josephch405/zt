@@ -1,4 +1,4 @@
-Temp routine for Remote Work
+Fuck the workflow right now. Focus on living life in the first person.
 
 Exercise + rinse + cleanup + breakfast + write obsidian
 Elevate mental state: good breathing, clarity of intent

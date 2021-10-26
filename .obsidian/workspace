@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "archive/zettlekasten.md",
+            "file": "anxiety.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "archive/zettlekasten.md",
+                "file": "anxiety.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "513dd25971ae4eb7",
   "lastOpenFiles": [
-    "archive/zettlekasten.md",
-    "main.md",
-    "daily_log/2020_05_28.md",
-    "music.md",
-    "singing.md",
-    "motivation.md",
-    "workflow.md",
-    "pelvis tilt.md",
-    "ennui.md",
-    "Military.md"
+    "anxiety.md",
+    "emotion.md",
+    "shroom.md",
+    "MASTER workflow and routines.md",
+    "projects.md",
+    "subjective experience.md",
+    "aromantic.md",
+    "archive/brain fog.md",
+    "habits.md",
+    "cleaning.md"
   ]
 }

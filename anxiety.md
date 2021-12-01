@@ -1,3 +1,4 @@
+
 I get very fidgety sometimes.
 
 I'm continuing a thread from therapy. Giti (therapist) suggested that I look into light meds for obsessive thoughts and general anxiety, so I'm deciding to hone in on meditative practices.

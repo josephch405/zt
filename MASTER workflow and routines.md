@@ -1,3 +1,11 @@
+TODO
+5. Clean all objects on desk
+6. Clean socks
+7. Clean all clothes
+8. Clean all objects on entrance side
+9. clean all objects on window side
+
+
 I will develop a strong coming home routine. I have to plan around the variability of a coming home routine, since I often come home at different times. In general, I come home at around 5, 7, or 9 - first bus, second bus, or some other late event. I can't plan much for 9+ - but I can at least do the basics of cleaning up and getting ready. 7+ could be meaningful self development time. 5+ should lead to some kind of physical activity.
 
 I really want to limit the amount of time I spend on league. Every time I play I'm never really that engaged. I do want to get better and stuff... but why? Purely for the social aspects? 

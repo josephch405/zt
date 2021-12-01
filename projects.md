@@ -19,3 +19,5 @@ A better feed aggregator - hackernews, some subreddits, organized by my own topi
 Insight - good meaningful content tends to be long, less bite sized
 
 Music discovery tool, cross platform, cross platform sync
+
+Video based automation - self (video skipping)

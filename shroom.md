@@ -125,3 +125,7 @@ guess he tired
 
 nope i'm hopped up
 train aint stopping lolololol
+
+Continuing here with weed thoughts this is the best category I can put my thoughts in right now
+
+I don't know what I'm doing. I just want to sit down and relax. The subliminal is a weird place to be because you realize shit that 

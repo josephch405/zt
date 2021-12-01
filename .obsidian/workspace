@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "anxiety.md",
+            "file": "daily_log/2021 thanksgiving trip.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "anxiety.md",
+                "file": "daily_log/2021 thanksgiving trip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "513dd25971ae4eb7",
   "lastOpenFiles": [
+    "daily_log/2021 thanksgiving trip.md",
+    "projects.md",
+    "learning.md",
+    "worry list.md",
     "anxiety.md",
-    "emotion.md",
     "shroom.md",
     "MASTER workflow and routines.md",
-    "projects.md",
-    "subjective experience.md",
-    "aromantic.md",
-    "archive/brain fog.md",
-    "habits.md",
-    "cleaning.md"
+    "job.md",
+    "social.md",
+    "emotion.md"
   ]
 }

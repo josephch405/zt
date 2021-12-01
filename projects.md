@@ -1,6 +1,3 @@
-Ideas that I would want in my life
-
-
 Instrument/sample market
 
 Anonymous music feedback platform
@@ -21,3 +18,17 @@ Insight - good meaningful content tends to be long, less bite sized
 Music discovery tool, cross platform, cross platform sync
 
 Video based automation - self (video skipping)
+
+Design workflow - automated design and testing
+
+SQL and database annotation tool - automatic documentation
+
+Summarize a video for me
+
+I want to get out there and explore things. Be in contact with more people. Reach out to new communities. I feel like I am stagnating sitting in the office, not learning much besides how to set things up with Google internal tools.
+
+What do I want to learn?
+
+Google docs based zettlekasten
+
+landing/pricing page feedback/design

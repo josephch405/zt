@@ -17,6 +17,8 @@ Insight - good meaningful content tends to be long, less bite sized
 
 Music discovery tool, cross platform, cross platform sync
 
+Video based automation - self (video skipping)
+
 Design workflow - automated design and testing
 
 SQL and database annotation tool - automatic documentation

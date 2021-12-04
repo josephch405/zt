@@ -42,3 +42,7 @@ I feel an immense pressure telling me something is always wrong. That I am not p
 Maybe I should dedicate a whole page to heartbreak. It ties into anxiety but also is kind of its own topic at this point.
 
 This thread might as well go into a bit of depression. I'm feeling socially depressed somehow. Despite going to events and meeting people, I don't feel like I'm meeting people I truly connect with. The few times I thought I did, I was basically just being horny. I don't fucking know anymore. Laundry's probably almost done.
+
+
+
+CBD seems to help. A whole joint is 72mg so experiment with lower amts and try an oil based solution. Still hate smoking.

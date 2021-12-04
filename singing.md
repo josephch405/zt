@@ -34,3 +34,5 @@ Bring pallate up until you get resonance
 I really need lessons or pointers or just ingest a large volume of videos on this
 
 Restrain and keep the breath and use it judiciously
+
+Use back muscles - as if you had wings but like under your shoulder blades not on them

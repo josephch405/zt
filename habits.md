@@ -18,3 +18,4 @@ As of now my habits:
 - Morning JP (anki 5 min, duolingo)
 
 That's actually about it. Other objectives kinda flow naturally throughout the day. I've decided that the more effort I spend on engineering a system the more I'll just abandon it. Serendipity and consistency is best. A truly good system should mostly be good instincts and good habits, coupled with occasional decision making. It should not overplan.
+

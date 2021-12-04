@@ -1,0 +1,1 @@
+Sometimes I end up in a headspace where I think about different ideas quickly in succession but do not really act on said ideas in useful ways.

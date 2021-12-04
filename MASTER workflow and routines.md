@@ -1,9 +1,11 @@
 TODO
-5. Clean all objects on desk
-6. Clean socks
-7. Clean all clothes
-8. Clean all objects on entrance side
-9. clean all objects on window side
+9. Write day 1 journey
+10. write spot instance CLI
+11.  Clean all uppers
+12. Clean all objects on entrance side
+13. clean all objects on window side
+14. Clean all pants
+15. 
 
 
 I will develop a strong coming home routine. I have to plan around the variability of a coming home routine, since I often come home at different times. In general, I come home at around 5, 7, or 9 - first bus, second bus, or some other late event. I can't plan much for 9+ - but I can at least do the basics of cleaning up and getting ready. 7+ could be meaningful self development time. 5+ should lead to some kind of physical activity.

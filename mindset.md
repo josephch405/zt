@@ -1,0 +1,3 @@
+The way thoughts work, you generally have some kind of thought generator. This is usually quite active and generates some distribution of thoughts. A subset of those can be vocalized. A subset within are easy to vocalize, implying a complementary set where you'd have some difficulty elucidating. 
+
+I was thinking that socially accepted statements are a subset of this, but that's not quite entirely how it works, is it? Thinking of the statements as functors, "good" dialogue choices or expressions map towards generally favorable or desired states, and vice versa. It takes some forethought (rounds of self play, predicting or anticipating what the responses would be like) to navigate this state space.

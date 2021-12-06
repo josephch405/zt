@@ -1,0 +1,1 @@
+I want to be more interesting in conversation. You know it's a type of skill but half the time you "feel" too tired to cultivate it. You need to change your [[mindset]]
